@@ -1,0 +1,2 @@
+Hello World, this is Bugi 😊
+This is my First Git Repo
